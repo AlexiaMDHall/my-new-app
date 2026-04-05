@@ -35,9 +35,9 @@ export default function Home() {
                 <div className="rounded-3xl border border-white/10 bg-slate-950/80 p-6">
                   <h2 className="text-lg font-semibold text-white">Core Skills</h2>
                   <ul className="mt-4 space-y-2 text-slate-300">
-                    <li>SQL & data querying</li>
+                    <li>JavaScript</li>
                     <li>Excel modeling</li>
-                    <li>Power BI / Tableau</li>
+                    <li>Tableau</li>
                     <li>Process improvement</li>
                   </ul>
                 </div>
@@ -63,18 +63,19 @@ export default function Home() {
                 <h2 className="text-2xl font-semibold text-white">Project Experience</h2>
                 <div className="mt-6 space-y-5 text-slate-300">
                   <article className="rounded-3xl bg-slate-900/80 p-6">
-                    <h3 className="text-lg font-semibold text-white">Sales Forecast Dashboard</h3>
+                    <h3 className="text-lg font-semibold text-white">Super Bowl Viewership Analysis Dashboard</h3>
                     <p className="mt-2 text-sm">
-                      Built a forecasting dashboard using historical sales and demand signals to support inventory planning.
+                      Analyzed real world data in Tableau on the superbowl 
+                      ratings from 1967-2023 to create a dashboard that forecasts future viewership trends.
                     </p>
-                    <p className="mt-3 text-sm text-cyan-300">Outcome: Improved planning accuracy by 18%.</p>
+                    <p className="mt-3 text-sm text-cyan-300">Outcome: Recognized key factors influencing viewership and provided actionable insights.</p>
                   </article>
                   <article className="rounded-3xl bg-slate-900/80 p-6">
-                    <h3 className="text-lg font-semibold text-white">Customer Insights Report</h3>
+                    <h3 className="text-lg font-semibold text-white">Small Business Website</h3>
                     <p className="mt-2 text-sm">
-                      Analyzed customer behavior and presented recommendations to increase retention for a mock business case.
+                      Created a small business website for a local lemonade stand using JavaScript, HTML, and CSS.
                     </p>
-                    <p className="mt-3 text-sm text-cyan-300">Outcome: Recommended 3 priority actions for growth.</p>
+                    <p className="mt-3 text-sm text-cyan-300">Outcome: Increased online presence and customer engagement.</p>
                   </article>
                 </div>
               </div>
@@ -82,8 +83,9 @@ export default function Home() {
               <div className="rounded-3xl border border-white/10 bg-white/5 p-8">
                 <h2 className="text-2xl font-semibold text-white">Contact</h2>
                 <div className="mt-6 space-y-4 text-slate-300">
-                  <p>Email: <span className="text-white">alexia@example.com</span></p>
-                  <p>LinkedIn: <span className="text-white">linkedin.com/in/alexiahall</span></p>
+                  <p>Phone: <span className="text-white">813-766-1633</span></p>
+                  <p>Email: <span className="text-white">alexiahall14@gmailcom</span></p>
+                  <p>LinkedIn: <span className="text-white">https://www.linkedin.com/in/alexia-hall-</span></p>
                   <p>Open to analytics internships, entry-level BA roles, and data-driven business projects.</p>
                 </div>
               </div>
