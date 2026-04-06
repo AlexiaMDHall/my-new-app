@@ -1,4 +1,4 @@
-Alexia Hall| Resume
+<strong>Alexia Hall| Resume <strong>
 
 A single-page resume website built with Next.js (App Router) and styled with Tailwind CSS utility classes. Designed to have the look and feel of my personal portfolio site, featuring a futuristic theme.
 
@@ -14,14 +14,14 @@ Start the development server npm run dev
 Open your browser and visit http://localhost:3000
 
 <strong>Features <strong>
-<li>Next.js App Router project scaffolded with create-next-app<li>
- <li>All resume content in src/app/page.js using JSX<li>
- <li>Real, complete resume content — no placeholder text<li>
- <li>Semantic HTML elements (header, main, section, footer)<li>
- <li>All styling done with Tailwind CSS utility classes via className<li>
- <li>Clean, readable layout at desktop viewport<li>
- <li>Mobile responsive layout using Tailwind sm: breakpoints<li>
- <li>No console errors<li>
- <li>Default boilerplate cleaned up<li>
-<li> Meaningful Git commit history<li>
+<li>Next.js App Router project scaffolded with create-next-app
+ <li>All resume content in src/app/page.js using JSX
+ <li>Real, complete resume content — no placeholder text
+ <li>Semantic HTML elements (header, main, section, footer)
+ <li>All styling done with Tailwind CSS utility classes via className
+ <li>Clean, readable layout at desktop viewport
+ <li>Mobile responsive layout using Tailwind sm: breakpoints
+ <li>No console errors
+ <li>Default boilerplate cleaned up
+<li> Meaningful Git commit history
 
