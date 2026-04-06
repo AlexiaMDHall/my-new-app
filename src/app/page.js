@@ -86,6 +86,7 @@ export default function Home() {
                   <p>Phone: <span className="text-white">813-766-1633</span></p>
                   <p>Email: <span className="text-white">alexiahall14@gmailcom</span></p>
                   <p>LinkedIn: <span className="text-white">https://www.linkedin.com/in/alexia-hall-</span></p>
+                  <p>GitHub: <span className="text-white">https://github.com/AlexiaMDHall</span></p>
                   <p>Open to analytics internships, entry-level BA roles, and data-driven business projects.</p>
                 </div>
               </div>
