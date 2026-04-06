@@ -1,4 +1,3 @@
-import Image from "next/image";
 
 export default function Home() {
   return (
@@ -15,7 +14,8 @@ export default function Home() {
                     Alexia Hall
                   </h1>
                   <p className="max-w-2xl text-slate-300">
-                    I help teams turn business questions into data-backed stories, build dashboards that guide decisions, and extract insight from raw numbers.
+                    Willing to learn and grow in the field of business analysis with 
+                    a strong passion for growing my skills in data analysis, process improvement, and stakeholder communication.
                   </p>
                 </div>
     
@@ -26,7 +26,7 @@ export default function Home() {
                   </div>
                   <div className="rounded-3xl bg-cyan-500/10 p-5">
                     <p className="text-sm uppercase tracking-[0.25em] text-cyan-200">Strength</p>
-                    <p className="mt-3 text-3xl font-semibold text-white">Data storytelling</p>
+                    <p className="mt-3 text-3xl font-semibold text-white">Communication + Collaboration</p>
                   </div>
                 </div>
               </div>
