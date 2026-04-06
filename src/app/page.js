@@ -42,11 +42,11 @@ export default function Home() {
                   </ul>
                 </div>
                 <div className="rounded-3xl border border-white/10 bg-slate-950/80 p-6">
-                  <h2 className="text-lg font-semibold text-white">Highlights</h2>
+                  <h2 className="text-lg font-semibold text-white">Education</h2>
                   <ul className="mt-4 space-y-2 text-slate-300">
-                    <li>Forecast analysis for retail demand</li>
-                    <li>Dashboard automation for operations</li>
-                    <li>Story-driven presentations for stakeholders</li>
+                    <li>Data Analysis Certificate</li>
+                    <li>Associates in Science at Pasco Hernando State College</li>
+                    <li>Currently pursuing a Bachelor's degree in Business Analytics and Information Systems</li>
                   </ul>
                 </div>
                 <div className="rounded-3xl border border-white/10 bg-slate-950/80 p-6">
